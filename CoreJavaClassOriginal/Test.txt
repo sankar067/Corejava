@@ -1,0 +1,6 @@
+Read
+this
+string
+to
+my
+file
